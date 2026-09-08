@@ -1,0 +1,11 @@
+{
+  "name": "Voice-First",
+  "short_name": "Voice-First",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#FFD700",
+  "description": "Voice-First - Voice Note-Taking and Revision for Visually Impaired Students",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false
+}
